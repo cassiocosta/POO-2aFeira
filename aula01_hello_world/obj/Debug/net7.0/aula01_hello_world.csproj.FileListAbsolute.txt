@@ -1,0 +1,15 @@
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/aula01_hello_world/bin/Debug/net7.0/aula01_hello_world
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/aula01_hello_world/bin/Debug/net7.0/aula01_hello_world.deps.json
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/aula01_hello_world/bin/Debug/net7.0/aula01_hello_world.runtimeconfig.json
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/aula01_hello_world/bin/Debug/net7.0/aula01_hello_world.dll
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/aula01_hello_world/bin/Debug/net7.0/aula01_hello_world.pdb
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/aula01_hello_world/obj/Debug/net7.0/aula01_hello_world.csproj.AssemblyReference.cache
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/aula01_hello_world/obj/Debug/net7.0/aula01_hello_world.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/aula01_hello_world/obj/Debug/net7.0/aula01_hello_world.AssemblyInfoInputs.cache
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/aula01_hello_world/obj/Debug/net7.0/aula01_hello_world.AssemblyInfo.cs
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/aula01_hello_world/obj/Debug/net7.0/aula01_hello_world.csproj.CoreCompileInputs.cache
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/aula01_hello_world/obj/Debug/net7.0/aula01_hello_world.dll
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/aula01_hello_world/obj/Debug/net7.0/refint/aula01_hello_world.dll
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/aula01_hello_world/obj/Debug/net7.0/aula01_hello_world.pdb
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/aula01_hello_world/obj/Debug/net7.0/aula01_hello_world.genruntimeconfig.cache
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/aula01_hello_world/obj/Debug/net7.0/ref/aula01_hello_world.dll
