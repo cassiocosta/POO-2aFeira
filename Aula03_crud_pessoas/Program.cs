@@ -51,8 +51,18 @@ while(operador !=0)
 void Criar()
 {
     PersonRepository repository =new PersonRepository();
-    repository.Adicionar(Person4);
+
+
+    City city = new City(1,"torres");
+    Person obj  = new Person("Joao", 40, city);
+
+
+    // o joao mora em Torres
+
+    Console.WriteLine($"o {obj.Nome} mora em {obj.City.Nome}")
+
+
     Console.WriteLine("vamos criar uma Person,\npedir os dados e adicionar na lista");
 
 
-}
+} 

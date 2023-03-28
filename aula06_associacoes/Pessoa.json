@@ -1,0 +1,14 @@
+{
+    "Id":2234,
+    "Nome":"Jonas",
+    "enderecos":[
+        {
+            "Id":"33",
+            "Logradouro":"Av. Silva Jardim,339"
+        },
+        {
+            "Id":"44",
+            "Logradouro":"av. dos pastores, vila sao joao"
+        }
+    ]
+}

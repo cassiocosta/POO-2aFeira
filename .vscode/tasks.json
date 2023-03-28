@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/Aula01_hello_world/aula01_hello_world.csproj",
+                "${workspaceFolder}/aula06_associacoes/aula06_associacoes.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/Aula01_hello_world/aula01_hello_world.csproj",
+                "${workspaceFolder}/aula06_associacoes/aula06_associacoes.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/Aula01_hello_world/aula01_hello_world.csproj"
+                "${workspaceFolder}/aula06_associacoes/aula06_associacoes.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

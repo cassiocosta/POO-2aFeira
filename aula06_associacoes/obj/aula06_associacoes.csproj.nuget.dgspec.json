@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/Aula01_hello_world/aula01_hello_world.csproj": {}
+    "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/aula06_associacoes/aula06_associacoes.csproj": {}
   },
   "projects": {
-    "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/Aula01_hello_world/aula01_hello_world.csproj": {
+    "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/aula06_associacoes/aula06_associacoes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/Aula01_hello_world/aula01_hello_world.csproj",
-        "projectName": "aula01_hello_world",
-        "projectPath": "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/Aula01_hello_world/aula01_hello_world.csproj",
+        "projectUniqueName": "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/aula06_associacoes/aula06_associacoes.csproj",
+        "projectName": "aula06_associacoes",
+        "projectPath": "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/aula06_associacoes/aula06_associacoes.csproj",
         "packagesPath": "/Users/cassiohcosta/.nuget/packages/",
-        "outputPath": "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/Aula01_hello_world/obj/",
+        "outputPath": "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/aula06_associacoes/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/cassiohcosta/.nuget/NuGet/NuGet.Config"

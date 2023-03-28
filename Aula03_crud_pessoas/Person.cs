@@ -7,15 +7,19 @@ namespace Aula03_crud_pessoas
 {
     public class Person
     {
-        public string Nome { get; private set; }="";  
+        public int Id { get; set; }
+        public string Nome { get; set; }
         public int Idade { get; set; }
+
+        public City City { get; set; }
 
         public Person(){}
 
-        public Person(string nome, int idade)
+        public Person(string nome, int idade, City city)
         {
             this.Nome = nome;
             this.Idade = idade;
+            City = city;
         }
 
         public string Apresentar()
