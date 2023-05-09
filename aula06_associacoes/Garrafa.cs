@@ -19,5 +19,15 @@ namespace aula06_associacoes
             this.Marca = marca;
             this.Volume = volume;
         }
+
+        protected virtual void Encher()
+        {
+            this.Volume+=100;
+        }
+        protected virtual void Encher(int volume)
+        {
+            this.Volume+=Volume;
+        }
+
     }
 }

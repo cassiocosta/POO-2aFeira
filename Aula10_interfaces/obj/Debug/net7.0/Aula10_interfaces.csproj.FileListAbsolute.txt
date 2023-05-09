@@ -1,0 +1,15 @@
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/Aula10_interfaces/obj/Debug/net7.0/Aula10_interfaces.csproj.AssemblyReference.cache
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/Aula10_interfaces/obj/Debug/net7.0/Aula10_interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/Aula10_interfaces/obj/Debug/net7.0/Aula10_interfaces.AssemblyInfoInputs.cache
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/Aula10_interfaces/obj/Debug/net7.0/Aula10_interfaces.AssemblyInfo.cs
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/Aula10_interfaces/obj/Debug/net7.0/Aula10_interfaces.csproj.CoreCompileInputs.cache
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/Aula10_interfaces/bin/Debug/net7.0/Aula10_interfaces
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/Aula10_interfaces/bin/Debug/net7.0/Aula10_interfaces.deps.json
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/Aula10_interfaces/bin/Debug/net7.0/Aula10_interfaces.runtimeconfig.json
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/Aula10_interfaces/bin/Debug/net7.0/Aula10_interfaces.dll
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/Aula10_interfaces/bin/Debug/net7.0/Aula10_interfaces.pdb
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/Aula10_interfaces/obj/Debug/net7.0/Aula10_interfaces.dll
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/Aula10_interfaces/obj/Debug/net7.0/refint/Aula10_interfaces.dll
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/Aula10_interfaces/obj/Debug/net7.0/Aula10_interfaces.pdb
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/Aula10_interfaces/obj/Debug/net7.0/Aula10_interfaces.genruntimeconfig.cache
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/Aula10_interfaces/obj/Debug/net7.0/ref/Aula10_interfaces.dll

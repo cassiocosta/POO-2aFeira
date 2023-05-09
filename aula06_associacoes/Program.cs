@@ -3,10 +3,8 @@ using aula06_associacoes;
 
 Cerveja heineken = new Cerveja("334343434","ambev", 470,5);
 
-Console.WriteLine(heineken);
-
-
-Endereco end = new Endereco("");
+heineken.Encher();
+Console.WriteLine(heineken.Volume);
 
 
 

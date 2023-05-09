@@ -17,6 +17,16 @@ namespace aula06_associacoes
 
         }
 
+        public override void Encher()
+        {
+              this.Volume = 200;
+        }
+        public override void Encher(int volume)
+        {
+            
+            base.Encher(volume);
+        }
+
         
     }
 }
