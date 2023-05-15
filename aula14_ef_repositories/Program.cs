@@ -1,15 +1,38 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using aula12_ef_test.Data;
 using aula12_ef_test.Domain;
+using aula14_ef_repositories.Data.Repositories;
+using aula14_ef_repositories.Domain.Interfaces;
 
 var db = new DataContext();
-Console.WriteLine($"Database path: {db.DbPath}.");
-
-
-
 
 // Create
-Console.WriteLine("Inserting a new person");
-var person = new Person() { Id = 1, Name = "João da Silva", phoneNumber ="4454545454545" };
-db.Add(person);
-db.SaveChanges();
+// Console.WriteLine("Inserting a new person");
+// var person = new Person() { Id = 11, Name = "Gustavo 1", phoneNumber ="5551889988998" };
+
+IPersonRepository _personRepository = new PersonRepository(db);
+// _personRepository.Save(person);
+
+
+
+GetAllPeople();
+
+Console.WriteLine("Inserting a person using GetById");
+var p = _personRepository.GetById(11);
+
+Console.WriteLine($"Id: {p.Id} | Nome: {p.Name} | Fone: {p.phoneNumber}");
+
+Console.WriteLine("Deleting a person");
+_personRepository.Delete(10);
+
+GetAllPeople();
+
+void GetAllPeople()
+{
+    Console.WriteLine("Show people");
+    var people = _personRepository.GetAll();
+    foreach (var item in people)
+    {
+        Console.WriteLine($"Id: {item.Id} | Nome: {item.Name} | Fone: {item.phoneNumber}");
+    }
+}

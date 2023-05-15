@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/aula12_ef_test/aula12_ef_test.csproj": {}
+    "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/aula14_ef_repositories/aula12_ef_test.csproj": {}
   },
   "projects": {
-    "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/aula12_ef_test/aula12_ef_test.csproj": {
+    "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/aula14_ef_repositories/aula12_ef_test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/aula12_ef_test/aula12_ef_test.csproj",
+        "projectUniqueName": "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/aula14_ef_repositories/aula12_ef_test.csproj",
         "projectName": "aula12_ef_test",
-        "projectPath": "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/aula12_ef_test/aula12_ef_test.csproj",
+        "projectPath": "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/aula14_ef_repositories/aula12_ef_test.csproj",
         "packagesPath": "/Users/cassiohcosta/.nuget/packages/",
-        "outputPath": "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/aula12_ef_test/obj/",
+        "outputPath": "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/aula14_ef_repositories/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/cassiohcosta/.nuget/NuGet/NuGet.Config"
