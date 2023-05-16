@@ -2,15 +2,15 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using aula14_ef_repositories.Domain;
+using aula12_ef_test.Domain;
 
-namespace aula12_ef_test.Domain
+namespace aula14_ef_repositories.Domain
 {
-    public class Person
+    public class City
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public string phoneNumber { get; set; }
-        public City City { get; set; }
+
+        public List<Person> People { get; set; }
     }
 }
