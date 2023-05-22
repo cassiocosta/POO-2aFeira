@@ -1270,11 +1270,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/aula14_ef_repositories/aula12_ef_test.csproj",
+      "projectUniqueName": "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/aula15_ef_repositories-one-to-many/aula12_ef_test.csproj",
       "projectName": "aula12_ef_test",
-      "projectPath": "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/aula14_ef_repositories/aula12_ef_test.csproj",
+      "projectPath": "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/aula15_ef_repositories-one-to-many/aula12_ef_test.csproj",
       "packagesPath": "/Users/cassiohcosta/.nuget/packages/",
-      "outputPath": "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/aula14_ef_repositories/obj/",
+      "outputPath": "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-2aFeira/aula15_ef_repositories-one-to-many/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/cassiohcosta/.nuget/NuGet/NuGet.Config"
