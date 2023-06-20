@@ -15,9 +15,9 @@ namespace aula14_ef_repositories.Controllers
     {
         private readonly IPersonRepository repositiory;
 
-        public PeopleController()
+        public PeopleController(IPersonRepository repository)
         {
-            this.repositiory = new PersonRepository();
+            this.repositiory = repository;
         }
 
         [HttpGet]
